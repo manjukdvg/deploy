@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd ~/apps/st
 BRANCH_NAME=master
 git checkout $BRANCH_NAME
 git pull origin $BRANCH_NAME
